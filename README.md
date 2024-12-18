@@ -1,4 +1,3 @@
-```markdown
 # Automatic Number Plate Recognition (ANPR) with YOLOv8
 
 This project demonstrates Automatic Number Plate Recognition (ANPR) using YOLOv8 for vehicle detection and license plate detection. It leverages a pre-trained YOLOv8 model (YOLOv8n) to detect vehicles and uses a licensed plate detector to detect license plates. The project also includes methods for handling missing frames in video data and visualizing the detection results.
