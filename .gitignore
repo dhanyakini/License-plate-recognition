@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment and dependencies
+env/
+*.env
+*.venv
+
+# IDE files
+*.vscode/
+*.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+
+
+anpr_test/
